@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cedc3ff1-7b7c-4010-bda9-4e672797b27d": {
+      "ProjectGuid": "cedc3ff1-7b7c-4010-bda9-4e672797b27d",
+      "DisplayName": "QuickSort-TriplePivot-Optimization",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
