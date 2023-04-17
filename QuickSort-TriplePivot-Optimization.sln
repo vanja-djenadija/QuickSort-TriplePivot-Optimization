@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuickSort-TriplePivot-Optimization", "QuickSort-TriplePivot-Optimization\QuickSort-TriplePivot-Optimization.csproj", "{CEDC3FF1-7B7C-4010-BDA9-4E672797B27D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEDC3FF1-7B7C-4010-BDA9-4E672797B27D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEDC3FF1-7B7C-4010-BDA9-4E672797B27D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEDC3FF1-7B7C-4010-BDA9-4E672797B27D}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEDC3FF1-7B7C-4010-BDA9-4E672797B27D}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FE2B0E3-790F-4241-BD27-924AE75A5404}
+	EndGlobalSection
+EndGlobal

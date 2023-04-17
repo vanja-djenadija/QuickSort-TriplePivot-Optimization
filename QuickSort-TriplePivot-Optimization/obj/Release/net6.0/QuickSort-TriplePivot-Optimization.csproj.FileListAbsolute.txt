@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\QuickSort-TriplePivot-Optimization\QuickSort-TriplePivot-Optimization\bin\Release\net6.0\QuickSort-TriplePivot-Optimization.exe
+C:\Users\Administrator\source\repos\QuickSort-TriplePivot-Optimization\QuickSort-TriplePivot-Optimization\bin\Release\net6.0\QuickSort-TriplePivot-Optimization.deps.json
+C:\Users\Administrator\source\repos\QuickSort-TriplePivot-Optimization\QuickSort-TriplePivot-Optimization\bin\Release\net6.0\QuickSort-TriplePivot-Optimization.runtimeconfig.json
+C:\Users\Administrator\source\repos\QuickSort-TriplePivot-Optimization\QuickSort-TriplePivot-Optimization\bin\Release\net6.0\QuickSort-TriplePivot-Optimization.dll
+C:\Users\Administrator\source\repos\QuickSort-TriplePivot-Optimization\QuickSort-TriplePivot-Optimization\bin\Release\net6.0\ref\QuickSort-TriplePivot-Optimization.dll
+C:\Users\Administrator\source\repos\QuickSort-TriplePivot-Optimization\QuickSort-TriplePivot-Optimization\obj\Release\net6.0\QuickSort-TriplePivot-Optimization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\QuickSort-TriplePivot-Optimization\QuickSort-TriplePivot-Optimization\obj\Release\net6.0\QuickSort-TriplePivot-Optimization.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\QuickSort-TriplePivot-Optimization\QuickSort-TriplePivot-Optimization\obj\Release\net6.0\QuickSort-TriplePivot-Optimization.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\QuickSort-TriplePivot-Optimization\QuickSort-TriplePivot-Optimization\obj\Release\net6.0\QuickSort-TriplePivot-Optimization.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\QuickSort-TriplePivot-Optimization\QuickSort-TriplePivot-Optimization\obj\Release\net6.0\QuickSort-TriplePivot-Optimization.dll
+C:\Users\Administrator\source\repos\QuickSort-TriplePivot-Optimization\QuickSort-TriplePivot-Optimization\obj\Release\net6.0\ref\QuickSort-TriplePivot-Optimization.dll
+C:\Users\Administrator\source\repos\QuickSort-TriplePivot-Optimization\QuickSort-TriplePivot-Optimization\obj\Release\net6.0\QuickSort-TriplePivot-Optimization.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\QuickSort-TriplePivot-Optimization\QuickSort-TriplePivot-Optimization\obj\Release\net6.0\QuickSort-TriplePivot-Optimization.csproj.AssemblyReference.cache
